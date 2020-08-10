@@ -49,4 +49,5 @@ node server.js
 
 #### prototype 사이트 구조
 
-![](C:\Users\3\Desktop\sitemap.png)
+![sitemap](https://user-images.githubusercontent.com/65117718/89747293-21fa8700-daf9-11ea-986e-08b9b27c8e1b.png)
+
